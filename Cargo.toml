@@ -1,0 +1,10 @@
+[package]
+name = "braindead"
+version = "0.1.0"
+authors = ["Rhelvetican <bionicvnb@gmail.com>"]
+license = "MIT"
+description = "A brainf*ck clone."
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
